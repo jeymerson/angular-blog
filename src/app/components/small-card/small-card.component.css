@@ -1,0 +1,26 @@
+.container__small-card{
+   width: 700px;
+   margin-bottom: 15px;
+ }
+.container__small-card-contente{
+  display: flex;
+  flex-direction: row;
+}
+.small-card__photo > img {
+width: 200px;
+right: 200px;
+margin-right: 20px; /*Da uma pequena margem de ->*/
+}
+
+.small-card__title {
+  /*Alinha o conteúdo ao centro da caixa e o texto ao centro*/
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /*ideia de alinha na horizontal e vertical*/
+
+}
+
+.container__small-card__separator{
+  margin-top: 10px;
+}

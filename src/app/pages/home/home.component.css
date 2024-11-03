@@ -1,0 +1,13 @@
+.container__articles{
+  margin-top: 30px;
+
+  display: flex;
+  flex-direction: row; /*coloca o conteudo em linha um ao lado do outro */
+  justify-content: center; /*Coloca o conteúdo no centro, que é o que eu quero*/
+}
+
+header{
+  margin-top: 15px;
+  display: flex;
+  justify-content: center;
+}

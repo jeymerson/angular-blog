@@ -1,1 +1,13 @@
 /* You can add global styles to this file, and also import other style files */
+*{
+  margin: 0; /*limpando e colocando padrões pré definidos */
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #111111;
+  color: white;
+  font-family: 'Segoe UI'; /* uma fonte com o estilo mais 'quadrado' */
+}
+
+a{
+  text-decoration: none; /*Tira o sublinhado do link*/
+}

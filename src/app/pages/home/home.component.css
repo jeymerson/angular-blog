@@ -6,8 +6,3 @@
   justify-content: center; /*Coloca o conteúdo no centro, que é o que eu quero*/
 }
 
-header{
-  margin-top: 15px;
-  display: flex;
-  justify-content: center;
-}
